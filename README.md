@@ -52,6 +52,3 @@ The 2D plotter project utilizes a Raspberry Pi along with stepper motor drivers 
 
 Contributions to this project are welcome! If you have ideas for improvements, feature requests, or bug reports, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
