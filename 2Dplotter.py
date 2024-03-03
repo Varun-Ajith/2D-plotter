@@ -18,7 +18,7 @@ GPIO.setup(Y_DIR_PIN, GPIO.OUT)
 GPIO.setup(SERVO_PIN, GPIO.OUT)
 
 servo_pwm = GPIO.PWM(SERVO_PIN, 50)
-servo_pwm.start(2.5)  # Adjust according to your servo's minimum angle
+servo_pwm.start(2.5)  # 
 
 
 def move_stepper(direction, steps, stepper_pins):
